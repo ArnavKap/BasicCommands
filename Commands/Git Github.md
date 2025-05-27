@@ -43,13 +43,3 @@ Welcome! This repository contains essential Git and GitHub commands to help you 
 - Fork repositories using GitHub’s **web interface** “Fork” button, not via Git CLI.
 
 ---
-
-## 🙌 Contributing
-
-Found something missing or have suggestions? Feel free to open an issue or submit a pull request!
-
----
-
-## 💡 Happy Coding!  
-
-Stay curious, keep experimenting, and version control like a pro! 🚀
